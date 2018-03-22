@@ -1,0 +1,21 @@
+{
+  "name": "remitano",
+  "version": "1.0.0",
+  "description": "Test task for remitano.",
+  "main": "index.js",
+  "bin": {
+    "blockchain": "index.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ayush Tiwari <atiwari@techracers.com>",
+  "license": "ISC",
+  "dependencies": {
+    "bitcoincashjs": "^0.1.10",
+    "bitcoinjs-lib": "^3.3.2",
+    "blocktrail-sdk": "^3.6.9",
+    "commander": "^2.15.1",
+    "node-persist": "^2.1.0"
+  }
+}
