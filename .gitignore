@@ -1,0 +1,14 @@
+# Dependency directory
+node_modules
+
+# Debug log from npm
+npm-debug.log
+
+# Local env variables
+.env
+
+# Visual studio directory
+.vscode/
+
+# Node persist files
+.node-persist/
